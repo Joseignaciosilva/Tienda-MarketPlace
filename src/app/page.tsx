@@ -1,10 +1,8 @@
 import { Button } from "@/components/ui/button";
-import { Header } from "./(rutas)/(root)/components/Header";
 
 export default function Home() {
   return (
     <div>
-      <Header />
       <Button>Probando Boton</Button>
     </div>
   );
